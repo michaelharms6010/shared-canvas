@@ -8,7 +8,7 @@ function App() {
       <CanvasDraw 
         canvasWidth="1000px"
         canvasHeight ="1000px"
-      
+       
       />
     </div>
   );
